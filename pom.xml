@@ -171,7 +171,7 @@
         <version.gcs>1.113.2</version.gcs>
         <version.gradle>6.1.1</version.gradle>
         <version.gson>2.8.6</version.gson>
-        <version.h2>1.4.200</version.h2>
+        <version.h2>2.2.220</version.h2>
         <version.hsqldb>2.5.0</version.hsqldb>
         <version.httpclient>4.5.2</version.httpclient>
         <version.informix>4.50.3</version.informix>
